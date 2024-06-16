@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "icon": "fa-solid fa-futbol",
+    "name": "Futebol de robôs"
+  },
+  {
+    "id": 2,
+    "icon": "fa-solid fa-robot",
+    "name": "Combate de robôs"
+  },
+  {
+    "id": 3,
+    "icon": "fa-solid fa-screwdriver-wrench",
+    "name": "Robôs de serviço"
+  },
+  {
+    "id": 4,
+    "icon": "fa-solid fa-car",
+    "name": "Corrida de robôs"
+  },
+  {
+    "id": 5,
+    "icon": "fa-brands fa-searchengin",
+    "name": "Pesquisa & Desenv."
+  },
+  {
+    "id": 6,
+    "icon": "fa-solid fa-satellite-dish",
+    "name": "Projetos de Extensão"
+  }
+]

@@ -1,0 +1,35 @@
+#footer {
+  position: relative;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  border-top: 1px solid #EEE;
+
+  .bold {
+    position: relative;
+    font-weight: bold;
+  }
+
+  .social {
+    li {
+      position: relative;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-right: 5px;
+
+      i {
+        position: relative;
+        border-radius: 25px;
+        border: 1px solid #000;
+        padding: 8px;
+      }
+    }
+  }
+
+  .links {
+    li {
+      position: relative;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+  }
+}

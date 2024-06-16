@@ -1,0 +1,4 @@
+# Ignore files
+.env
+.env.development
+.env.staging
